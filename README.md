@@ -34,6 +34,7 @@ If you are using this tool on a mobile device, please enable desktop mode for th
 - HTML
 - CSS
 - JavaScript
+- React-vite
 
 ## License
 
